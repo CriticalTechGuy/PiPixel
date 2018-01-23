@@ -1,6 +1,6 @@
 {
     "animation": {
-        "typename": "BiblioPixelAnimations.strip.ColorChase"
+        "typename": "BiblioPixelAnimations.ColorChase"
     },
     "run": {
         "fps": 10

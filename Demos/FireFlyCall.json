@@ -8,7 +8,7 @@
     "driver": {
         "typename": "pi_ws281x",
         "gpio": 18,
-        "c_order": "RGB",
+        "c_order": "Orange",
         "num": 150
     },
     "layout": {

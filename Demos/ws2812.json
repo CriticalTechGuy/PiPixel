@@ -3,7 +3,7 @@
         "typename": "BiblioPixelAnimations.strip.Rainbows.RainbowCycle"
     },
     "run": {
-        "fps": 50
+        "fps": 100
     },
     "driver": {
         "typename": "pi_ws281x",
@@ -13,6 +13,6 @@
     },
     "layout": {
         "typename": "strip",
-        "brightness": 128
+        "brightness": 255
     }
 }

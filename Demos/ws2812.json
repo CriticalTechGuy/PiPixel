@@ -1,6 +1,6 @@
 {
     "animation": {
-        "typename": "BiblioPixelAnimations.strip.WhiteTwinkle"
+        "typename": "BiblioPixelAnimations.strip.FireFlies"
     },
     "run": {
         "fps": 30

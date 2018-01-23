@@ -1,6 +1,6 @@
 {
     "animation": {
-        "typename": "BiblioPixelAnimations.strip.HalfR"
+        "typename": "BiblioPixelAnimations.strip.HalfRainbow"
     },
     "run": {
         "fps": 30

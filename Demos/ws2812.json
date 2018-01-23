@@ -1,9 +1,9 @@
 {
     "animation": {
-        "typename": "BiblioPixelAnimations.ColorChase"
+        "typename": "BiblioPixelAnimations.strip.WhiteTwinkle"
     },
     "run": {
-        "fps": 10
+        "fps": 30
     },
     "driver": {
         "typename": "pi_ws281x",

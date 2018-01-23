@@ -1,6 +1,6 @@
 {
     "animation": {
-        "typename": "BiblioPixelAnimations.strip.Rainbows.RainbowCycle"
+        "typename": "BiblioPixelAnimations.strip.ColorChase"
     },
     "run": {
         "fps": 10

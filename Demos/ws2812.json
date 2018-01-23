@@ -3,13 +3,13 @@
         "typename": "BiblioPixelAnimations.strip.Rainbows.RainbowCycle"
     },
     "run": {
-        "fps": 30
+        "fps": 50
     },
     "driver": {
         "typename": "pi_ws281x",
         "gpio": 18,
         "c_order": "RGB",
-        "num": 64
+        "num": 150
     },
     "layout": {
         "typename": "strip",

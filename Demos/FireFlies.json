@@ -5,7 +5,7 @@
     "run": {
         "fps": 30
     },
-    {
+    
     "driver": "simpixel"
     },
     "layout": {

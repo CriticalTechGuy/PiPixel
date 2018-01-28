@@ -5,9 +5,8 @@
     "run": {
         "fps": 30
     },
-   
-    "driver": {
-    "simpixel"
+    {
+    "driver": "simpixel"
     },
     "layout": {
         "typename": "strip",

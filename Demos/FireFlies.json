@@ -6,8 +6,7 @@
         "fps": 30
     },
    
-    "driver": 
-    {
+    "driver": {
     "simpixel"
     },
     "layout": {

@@ -6,7 +6,7 @@
         "fps": 30
     },
     "layout": {
-        "driver": "simpixel"
+        "driver": "simpixel",
         "typename": "strip",
         "brightness": 126
     }

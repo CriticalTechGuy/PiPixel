@@ -3,7 +3,7 @@
         "typename": "BiblioPixelAnimations.strip.Wave"
     },
     "run": {
-        "fps": 30
+        "fps": 0
     },
     "driver": {
         "typename": "pi_ws281x",

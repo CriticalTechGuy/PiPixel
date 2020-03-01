@@ -6,7 +6,7 @@
         "fps": 30
     },
     "driver": {
-        "typename": "rpi_ws281x",
+        "typename": "pi_ws281x",
         "gpio": 18,
         "c_order": "RGB",
         "num": 150

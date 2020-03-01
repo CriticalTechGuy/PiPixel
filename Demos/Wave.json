@@ -9,7 +9,7 @@
         "typename": "pi_ws281x",
         "gpio": 18,
         "c_order": "RGB",
-        "num": 300
+        "num": 450
     },
     "layout": {
         "typename": "strip",
